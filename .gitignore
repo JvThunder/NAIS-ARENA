@@ -1,0 +1,4 @@
+.env
+__pycache__/
+logs/
+3.3_Running_Evals_with_Inspect_exercises_sol.ipynb
